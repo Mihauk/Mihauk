@@ -33,7 +33,7 @@
 ---
 
 ### ⚡ Featured Projects
-- 🔐 [ECC Quantum Attack Framework](https://github.com/Mihauk/ECC)
+- 🔐 ECC Quantum Attack Framework (Private for now)
 - 🧮 [Nonlinear Diffusion Simulations in Julia](https://github.com/Mihauk/NLD)
 - 🧠 [Machine Learning Experiments](https://github.com/Mihauk/Loan-Prediction)
 
