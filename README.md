@@ -36,7 +36,7 @@
 ---
 
 ### 🧠 Currently Learning
-`Quantum Networking` • `Zero Knowledge Proofs` • `AWS Security` • `QEC & QLDPC Codes`
+`Quantum Network and communication` • `Zero Knowledge Proofs` • `QEC & QLDPC Codes`
 
 ---
 
