@@ -5,9 +5,8 @@
 ---
 
 ### 🔬 About Me
-- 🧩 Currently Working on **Elliptic Curve Cryptanalysis**, **Quantum Algorithms**, **Quantum Error Correction** & broadly **Condensed Matter** problems.
 - 💻 Love building in **Python**, **Julia**, **Rust** and **Qiskit**
-- ☁️ Currently learning **Quantum Network and communication**, **Post-Quantum Cryptography** and **Quantum Error Correction**
+- 🧩 🔭 Currently Working on **Elliptic Curve Cryptanalysis**, **Quantum Algorithms**, **Quantum Error Correction** & broadly **Condensed Matter** problems.
 
 ---
 
