@@ -17,11 +17,11 @@
 </p>
 
 	•	Activity graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekRaj&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihauk&theme=react-dark)
 	•	Visitor counter:
-![Profile Views](https://komarev.com/ghpvc/?username=AbhishekRaj&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Mihauk&color=blueviolet)
 	•	Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbhishekRaj&theme=matrix)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mihauk&theme=matrix)
 
 ---
 
