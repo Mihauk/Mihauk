@@ -5,16 +5,16 @@
 ---
 
 ### 🔬 About Me
-- 🧩 Currently Exploring and Working on **Elliptic Curve Cryptanalysis**, **Quantum Algorithms**, **Quantum Error Correction** & **Broadly Condensed Matter** problems.
+- 🧩 Currently Exploring and Working on **Elliptic Curve Cryptanalysis**, **Quantum Algorithms**, **Quantum Error Correction** & broadly **Condensed Matter** problems.
 - 💻 Love building in **Python**, **Julia**, **Rust** and **Qiskit**
-- ☁️ Currently learning **Quantum Cryptanalysis** and **Post-Quantum Cryptography**
+- ☁️ Currently learning **Quantum Cryptanalysis**, **Post-Quantum Cryptography** and **Quantum Error Correction**
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekRaj&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRaj&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mihauk&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihauk&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
