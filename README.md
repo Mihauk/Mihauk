@@ -28,7 +28,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishekraj/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-raj-605b309a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Mihauk"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
   <a href="mailto:abhishek654r@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>
