@@ -1,6 +1,6 @@
-# Hi there 👋 , I'm Abhishek Raj
+<h1 align="center">👋 Hi, I'm Abhishek Raj</h1>
 
-🎓 PhD Physics | 🧠 Quantum Computing & Cryptography | ☁️ Cloud Security Enthusiast
+<p align="center">🎓 PhD Physics | 🧠 Quantum Computing & Cryptography | ☁️ Security Enthusiast </p>
 
 ---
 
@@ -25,7 +25,14 @@
 
 ---
 
-### ⚡ Projects
+### 📈 My Developer Metrics
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics" width="600">
+</p>
+
+---
+
+### ⚡ Featured Projects
 - 🔐 [ECC Quantum Attack Framework](https://github.com/Mihauk/ECC)
 - 🧮 [Nonlinear Diffusion Simulations in Julia](https://github.com/Mihauk/NLD)
 - 🧠 [Machine Learning Experiments](https://github.com/Mihauk/Loan-Prediction)
