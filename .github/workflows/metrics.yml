@@ -1,0 +1,80 @@
+name: 📊 Generate GitHub Profile Metrics
+
+on:
+  # Run automatically every day
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🧮 Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # ----------------------------------------------------
+          # REQUIRED: Use a Personal Access Token
+          # Create one with scopes: public_repo, read:user, read:org
+          # Add it to repo Secrets → METRICS_TOKEN
+          # ----------------------------------------------------
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          #Configure timezone, theme and display
+          config_timezone: America/New_York
+          config_display: large
+          config_theme: reactive
+
+          # Base sections
+          base: header, activity, community, repositories, metadata
+
+          # ----------------------------------------------------
+          # 🕸️ Radar Chart (2D Plane)
+          # ----------------------------------------------------
+          plugin_radar: yes
+          plugin_radar_sections: reviews, issues, pull_requests, commits
+          plugin_radar_ignored: stars, repositories
+
+          # ----------------------------------------------------
+          # 🧠 Activity & Habits
+          # ----------------------------------------------------
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_filter: all
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_trim: yes
+
+          # ----------------------------------------------------
+          # 🏆 Achievements & Stats
+          # ----------------------------------------------------
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: detailed
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_followup: yes
+          plugin_stargazers: yes
+
+          # ----------------------------------------------------
+          # 🗣️ Languages Used
+          # ----------------------------------------------------
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex
+          plugin_languages_threshold: 0%
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 15
+
+          # ----------------------------------------------------
+          # 👥 Community and Repo Traffic
+          # ----------------------------------------------------
+          plugin_repositories: yes
+          plugin_traffic: yes
+
+          # Output file
+          filename: metrics.svg
+
+          
