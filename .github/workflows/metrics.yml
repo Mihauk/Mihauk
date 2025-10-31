@@ -1,5 +1,4 @@
 name: 📊 Generate GitHub Profile Metrics
-uses: lowlighter/metrics@v3.34
 
 on:
   # Run automatically every day
@@ -15,7 +14,7 @@ jobs:
       contents: read
     steps:
       - name: 🧮 Generate metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           # ----------------------------------------------------
           # REQUIRED: Use a Personal Access Token
