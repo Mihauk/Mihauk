@@ -5,10 +5,9 @@
 ---
 
 ### 🔬 About Me
-- 🧩 Currently Working on **Elliptic Curve Cryptanalysis**, **Quantum Algorithms** & **Broadly Condensed Matter** problems.
-- ⚛️ Exploring **Nonlinear Diffusion**, **Many-Body Physics**, and **Hydrodynamic Fluctuations**
-- 💻 Love building in **Python**, **Qiskit**, and **Julia**
-- ☁️ Currently learning **Cloud Cybersecurity** and **Post-Quantum Cryptography**
+- 🧩 Currently Exploring and Working on **Elliptic Curve Cryptanalysis**, **Quantum Algorithms**, **Quantum Error Correction** & **Broadly Condensed Matter** problems.
+- 💻 Love building in **Python**, **Julia**, **Rust** and **Qiskit**
+- ☁️ Currently learning **Quantum Cryptanalysis** and **Post-Quantum Cryptography**
 
 ---
 
