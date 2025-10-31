@@ -53,7 +53,7 @@
 
 ---
 
-⭐️ *“Mesmerizing complexity lies in simple equations.”*
+<p align="center"> ⭐️ *“Mesmerizing complexity lies in simple equations.”* ⭐️ </p>
 <!--
 **Mihauk/Mihauk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
