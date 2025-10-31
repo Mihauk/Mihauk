@@ -16,11 +16,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihauk&layout=compact&theme=radical" height="160"/>
 </p>
 
-	•	Activity graph:
+•	Activity graph:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mihauk&theme=react-dark)
-	•	Visitor counter:
+•	Visitor counter:
 ![Profile Views](https://komarev.com/ghpvc/?username=Mihauk&color=blueviolet)
-	•	Trophies:
+•	Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mihauk&theme=matrix)
 
 ---
