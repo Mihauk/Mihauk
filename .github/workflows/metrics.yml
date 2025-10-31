@@ -9,9 +9,9 @@ on:
 
 jobs:
   github-metrics:
+    runs-on: ubuntu-latest
     permissions:
       contents: read
-    runs-on: ubuntu-latest
     steps:
       - name: 🧮 Generate metrics
         uses: lowlighter/metrics@latest
