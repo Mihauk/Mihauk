@@ -1,4 +1,5 @@
 name: 📊 Generate GitHub Profile Metrics
+uses: lowlighter/metrics@v3.34
 
 on:
   # Run automatically every day
