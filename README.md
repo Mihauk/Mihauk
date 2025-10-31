@@ -20,9 +20,9 @@
 ---
 
 ### ⚡ Projects
-- 🔐 [ECC Quantum Attack Framework](https://github.com/AbhishekRaj/ECC)
-- 🧮 [Nonlinear Diffusion Simulations in Julia](https://github.com/AbhishekRaj/NLD)
-- 🧠 [Machine Learning Experiments](https://github.com/AbhishekRaj/Loan-Prediction)
+- 🔐 [ECC Quantum Attack Framework](https://github.com/Mihauk/ECC)
+- 🧮 [Nonlinear Diffusion Simulations in Julia](https://github.com/Mihauk/NLD)
+- 🧠 [Machine Learning Experiments](https://github.com/Mihauk/Loan-Prediction)
 
 ---
 
