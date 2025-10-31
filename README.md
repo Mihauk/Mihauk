@@ -16,6 +16,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihauk&layout=compact&theme=radical" height="160"/>
 </p>
 
+	•	Activity graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekRaj&theme=react-dark)
+	•	Visitor counter:
+![Profile Views](https://komarev.com/ghpvc/?username=AbhishekRaj&color=blueviolet)
+	•	Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbhishekRaj&theme=matrix)
+
 ---
 
 ### ⚡ Projects
