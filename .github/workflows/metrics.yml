@@ -9,6 +9,8 @@ on:
 
 jobs:
   github-metrics:
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     steps:
       - name: 🧮 Generate metrics
