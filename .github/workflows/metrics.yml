@@ -23,10 +23,7 @@ jobs:
           # ----------------------------------------------------
           token: ${{ secrets.METRICS_TOKEN }}
 
-          #Configure timezone, theme and display
-          config_timezone: America/New_York
-          config_display: large
-          config_theme: reactive
+          
 
           # Base sections
           base: header, activity, community, repositories, metadata
