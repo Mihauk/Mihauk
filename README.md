@@ -24,12 +24,12 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mihauk&theme=matrix)
 
 ---
-
+<!--
 ### 📈 My Developer Metrics
 <p align="center">
   <img src="./metrics.svg" alt="Metrics" width="600">
 </p>
-
+-->
 ---
 
 ### ⚡ Featured Projects
