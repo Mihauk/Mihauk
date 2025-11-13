@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/abhishek-raj-605b309a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Mihauk"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
   <a href="mailto:abhishek654r@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://mihauk.github.io"><img src="https://img.shields.io/badge/website-mihauk.github.io-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://mihauk.github.io"><img src="https://img.shields.io/badge/personal%20site-mihauk.github.io-8b5cf6?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
 
 ---
